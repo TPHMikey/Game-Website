@@ -1,1 +1,14 @@
-
+[
+  {
+    "title": "Space Dodge",
+    "description": "Dodge the incoming asteroids!",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Space+Dodge",
+    "folder": "games/space-dodge/index.html"
+  },
+  {
+    "title": "Clicker Hero",
+    "description": "Click to save the kingdom.",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Clicker+Hero",
+    "folder": "games/clicker-hero/index.html"
+  }
+]
